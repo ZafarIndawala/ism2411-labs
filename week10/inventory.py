@@ -1,3 +1,18 @@
+# Reflection
+#
+# 1. Most surprising thing about Python lists:
+# What surprised me most is how easy lists are to create and use. With one line
+# I can store a whole set of values, and built-in tools like len(), sum(), max(),
+# and min() give me useful information from it right away. I expected it to take
+# more work to get answers out of a collection of data.
+#
+# 2. Business situation where a list beats doing it manually in Excel:
+# When I am working at a register and handling a difficult cash transaction, I
+# have to add up several amounts and make sure the total is right while a
+# customer waits. Doing that by hand, or in a spreadsheet with formulas, is slow
+# and easy to get wrong. With a Python list I could store each amount, use sum()
+# to get the total instantly, and use a loop to apply a discount or tax to every
+# amount the same way.
 # inventory.py
 # Author: Zafar Indawala
 # module 10 lab: Inventory List Manager
