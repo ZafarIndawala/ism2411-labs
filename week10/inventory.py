@@ -13,6 +13,7 @@
 # and easy to get wrong. With a Python list I could store each amount, use sum()
 # to get the total instantly, and use a loop to apply a discount or tax to every
 # amount the same way.
+
 # inventory.py
 # Author: Zafar Indawala
 # module 10 lab: Inventory List Manager
